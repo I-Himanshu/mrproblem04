@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![](https://github-readme-stats.vercel.app/api?username=mrproblem04&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=mrproblem04&color=blueviolet)
 
@@ -39,3 +38,29 @@
 
     ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=green&color=2bbc8a)
 
+<p>
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy0/giphy.gif" width="25"> <b>Connect with me</b>
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-mrproblem04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrproblem04/)](https://www.linkedin.com/in/mrproblem04/) -->
+
+[![Instagram Badge](https://img.shields.io/badge/-mrproblem04-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/mr_problem._04/)](https://www.instagram.com/mr_problem._04/)
+
+[![Twitter Badge](https://img.shields.io/badge/-mrproblem04-inactive?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/mr_problem0403/)](https://twitter.com/mr_problem0403/)
+
+[![Stackoverflow Badge](https://img.shields.io/badge/-mrproblem04-blue?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/20147598/problem/)](https://stackoverflow.com/users/20147598/problem)
+
+![email Badge](https://img.shields.io/badge/-mrproblem04-blueviolet?style=plastic&logo=gmail&logoColor=orange&link=mailto:mr_problem.dipak@proton.me)
+
+</p>
+
+<p>
+<br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+![](https://github-readme-stats.vercel.app/api?username=mrproblem04&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrproblem04&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrproblem04&theme=radical)
+
+</p>
