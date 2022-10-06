@@ -35,6 +35,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy0/giphy.gif" width="25"> <b>Connect with me</b>
 
+<div a;ign="center">
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-mrproblem04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrproblem04/)](https://www.linkedin.com/in/mrproblem04/) -->
 
@@ -46,7 +47,7 @@
 ![email Badge](https://img.shields.io/badge/-mrproblem04-blueviolet?style=plastic&logo=gmail&logoColor=orange&link=mailto:mr_problem.dipak@proton.me)
 
 ![instagram Badge](https://img.shields.io/badge/-mrproblem04-orange?style=plastic&logo=instagram&logoColor=black&link=https://www.instagram.com/mr_problem._04/)
-
+</div>
 </p>
 
 <p>
