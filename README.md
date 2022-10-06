@@ -35,7 +35,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy0/giphy.gif" width="25"> <b>Connect with me</b>
 
-<div a;ign="center">
+<div align="center">
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-mrproblem04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrproblem04/)](https://www.linkedin.com/in/mrproblem04/) -->
 
