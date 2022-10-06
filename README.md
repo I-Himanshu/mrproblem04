@@ -38,18 +38,20 @@
 
     ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=green&color=2bbc8a)
 
-<p>
+<p aligne="center">
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy0/giphy.gif" width="25"> <b>Connect with me</b>
+
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-mrproblem04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrproblem04/)](https://www.linkedin.com/in/mrproblem04/) -->
 
-[![Instagram Badge](https://img.shields.io/badge/-mrproblem04-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/mr_problem._04/)](https://www.instagram.com/mr_problem._04/)
 
 [![Twitter Badge](https://img.shields.io/badge/-mrproblem04-inactive?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/mr_problem0403/)](https://twitter.com/mr_problem0403/)
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-mrproblem04-blue?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/20147598/problem/)](https://stackoverflow.com/users/20147598/problem)
 
 ![email Badge](https://img.shields.io/badge/-mrproblem04-blueviolet?style=plastic&logo=gmail&logoColor=orange&link=mailto:mr_problem.dipak@proton.me)
+
+![instagram Badge](https://img.shields.io/badge/-mrproblem04-orange?style=plastic&logo=instagram&logoColor=black&link=https://www.instagram.com/mr_problem._04/)
 
 </p>
 
