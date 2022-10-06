@@ -38,7 +38,7 @@
 
     ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=green&color=2bbc8a)
 
-<p aligne="center">
+<p align="center">
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy0/giphy.gif" width="25"> <b>Connect with me</b>
 
 
