@@ -44,7 +44,7 @@
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-mrproblem04-blue?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/20147598/problem/)](https://stackoverflow.com/users/20147598/problem)
 
-![email Badge](https://img.shields.io/badge/-mrproblem04-blueviolet?style=plastic&logo=gmail&logoColor=orange&link=mailto:mr_problem.dipak@proton.me)
+![email Badge](https://img.shields.io/badge/-mrproblem04-blueviolet?style=plastic&logo=gmail&logoColor=orange&link=mailto&to:mr_problem.dipak@proton.me)
 
 ![instagram Badge](https://img.shields.io/badge/-mrproblem04-orange?style=plastic&logo=instagram&logoColor=black&link=https://www.instagram.com/mr_problem._04/)
 </div>
